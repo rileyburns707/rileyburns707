@@ -10,7 +10,7 @@ I am a computer engineering new grad from Azusa Pacific University, passionate a
 - 👨‍💻 Doing 1 Leetcode problem a day
 - 🔐 Studying for my CompTIA Security+ exam
 
-Check out my [coding portfolio!](https:/io/rileyburns707.github.io/PortfolioSite.github./)
+Check out my [coding portfolio!](https://rileyburns707.github.io/PortfolioSite.github.io/)
 
 ## 🎓 About Me
 

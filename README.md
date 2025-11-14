@@ -6,7 +6,7 @@ I am a computer engineering new grad from Azusa Pacific University, passionate a
 ## 🚀 What I'm Up To
 
 - 🏃 Growing [Phantom Pacer](https://phantompacer.com/)
-- 💻 Building a Fantasy NBA application with PostgreSQL, Node.js, and Supabase
+- 💻 Building a Fantasy NBA application with PostgreSQL, React, and Supabase
 - 👨‍💻 Doing 1 Leetcode problem a day
 - 🔐 Studying for my CompTIA Security+ exam
 

@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋 I'm Riley Burns</h1>
 
 # 💫 About Me:
-I am a computer engineering new grad from Azusa Pacific University, passionate about exploring the realms of coding, firmware, and building robust applications.
+I am a computer engineering undergrad from Azusa Pacific University, passionate about exploring the realms of coding, firmware, and building robust applications.
 
 ## 🚀 What I'm Up To
 
 - 🏃 Growing [Phantom Pacer](https://phantompacer.com/)
-- 💻 Building a Fantasy NBA application with PostgreSQL, React, and Supabase
+- 💻 Ricing my Arch setup and doing boot.dev courses
 - 👨‍💻 Doing 1 Leetcode problem a day
-- 🔐 Studying for my CompTIA Security+ exam
+- 🔐 Studying for my CompTIA Network+ exam
 
 Check out my [coding portfolio!](https://rileyburns707.github.io/PortfolioSite.github.io/)
 
 ## 🎓 About Me
 
-I'm a computer engineer who loves to code, build unnecassary stuff with my 3D printer, and read philosophy (currently reading the *Leviathan* by Thomas Hobbes). I also cofounded Phantom Pacer, a company that sells 400-meter LED pacing systems.
+I'm a computer engineer who loves to code, build unnecassary stuff with my 3D printer, and read philosophy (currently reading *The Brothers Karamazov* by Dostoevsky). I also cofounded Phantom Pacer, a company that sells 400-meter LED pacing systems.
 
 
 ## 🌐 Connect with me:
